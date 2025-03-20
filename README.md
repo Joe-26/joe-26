@@ -1,10 +1,16 @@
 <h3>☁️ Cloud Engineer | Full-Stack Dev | Crafting scalable AWS solutions – Turning complex problems into seamless solutions 🚀</h3>
+
 ## 👋 About Me  
-- 💻 **Software Engineer** with 3+ years of experience in developing scalable SaaS solutions using **Java**, **Python**, and cloud platforms like **AWS** and **Azure**.  
-- 🌐 Strong expertise in **API integrations**, **workflow optimization**, and delivering secure, high-performance applications using modern frameworks like **Spring Boot** and **Django**.  
-- 🚀 Proficient in cloud infrastructure management with hands-on experience in **Terraform**, **CloudFormation**, and containerization tools like **Docker** and **Kubernetes**.  
-- 🤝 Experienced in collaborating with cross-functional teams and clients to deliver tailored solutions, ensuring high customer satisfaction and business impact.  
-- 🎯 Passionate about driving innovation and improving operational efficiency through data-driven decision-making and strategic problem-solving.  
+- 💻 **Software Engineer** with 3+ years of experience in developing scalable SaaS solutions using **Java**, **Python**, and cloud platforms like **AWS** and **Azure**.
+
+- 🌐 Strong expertise in **API integrations**, **workflow optimization**, and delivering secure, high-performance applications using modern frameworks like **Spring Boot** and **Django**.
+
+- 🚀 Proficient in cloud infrastructure management with hands-on experience in **Terraform**, **CloudFormation**, and containerization tools like **Docker** and **Kubernetes**.
+
+- 🤝 Experienced in collaborating with cross-functional teams and clients to deliver tailored solutions, ensuring high customer satisfaction and business impact.
+
+- 🎯 Passionate about driving innovation and improving operational efficiency through data-driven decision-making and strategic problem-solving.
+
 - 🎸 When I’m not coding, you can find me playing the **guitar** and exploring new music!  
 
 <h3 align="left">Connect with me:</h3>
