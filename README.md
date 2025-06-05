@@ -1,4 +1,4 @@
-<h3>☁️ Cloud Engineer | Full-Stack Dev | Crafting scalable AWS solutions – Turning complex problems into seamless solutions 🚀</h3>
+<h3>☁️ Cloud Engineer | Full-Stack Developer | Crafting scalable AWS solutions – Turning complex problems into seamless solutions 🚀</h3>
 
 ## 👋 About Me  
 - 💻 **Software Engineer** with 3+ years of experience in developing scalable SaaS solutions using **Java**, **Python**, and cloud platforms like **AWS** and **Azure**.
